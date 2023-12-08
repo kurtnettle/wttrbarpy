@@ -1,0 +1,51 @@
+{
+    "cloud": "☁️",
+    "sun": "☀️",
+    "lightning-cloud": "🌩️",
+    "lightning-rain-cloud": "⛈️",
+    "night": "🌃",
+    "moon": {
+        "crescent": "🌙",
+        "new": "🌑",
+        "waxing-crescent": "🌒",
+        "first-quarter": "🌓",
+        "waxing-gibbous": "🌔",
+        "full": "🌕",
+        "waning-gibbous": "🌖",
+        "third-quarter": "🌗",
+        "waning-crescent": "🌘"
+    },
+    "fog": "🌫",
+    "rain-cloud": "🌧️",
+    "snow-cloud": "🌨️",
+    "snowflake": "❄️",
+    "sun-behind-cloud": "⛅",
+    "sun-behind-large-cloud": "🌥️",
+    "sun-behind-rain-cloud": "🌦️",
+    "sun-behind-small-cloud": "🌤️",
+    "sunrise": "🌅",
+    "sunset": "🌇",
+    "clock": {
+        "0": "🕛",
+        "3": "🕒",
+        "6": "🕕",
+        "9": "🕘"
+    },
+    "degree": "°",
+    "humidity": "💧",
+    "arrow": {
+        "up": "📈",
+        "down": "📉"
+    },
+    "flag-in-hole": "⛳",
+    "wind_dir": {
+        "up": "⬆️",
+        "down": "⬇️",
+        "left": "⬅️",
+        "right": "➡️",
+        "up_left": "↖️",
+        "up_right": "↗️",
+        "down_left": "↙️",
+        "down_right": "↘️"
+    }
+}

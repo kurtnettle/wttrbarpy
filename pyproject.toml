@@ -1,0 +1,4 @@
+[tool.isort]
+color_output=true
+profile = "black"
+src_paths=["wttrbarpy"]

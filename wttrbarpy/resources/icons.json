@@ -1,0 +1,125 @@
+{
+    "clear": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "cloudy": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "cloudy-windy": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "cloudy-gusts": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "fog": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "lightning": {
+        "day": "",
+        "night": "",
+        "neutral": "󰖓"
+    },
+    "rain": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "rain-wind": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "rain-mix": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "overcast": {
+        "day": ""
+    },
+    "snow": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "snow-wind": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "snow-thunderstorm": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "sleet": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "sleet-storm": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "snowflake": {
+        "neutral": ""
+    },
+    "showers": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "thunderstorm": {
+        "day": "",
+        "night": "",
+        "neutral": ""
+    },
+    "moon": {
+        "new": "󰽤",
+        "waxing-crescent": "󰽧",
+        "first-quarter": "󰽡",
+        "waxing-gibbous": "󰽨",
+        "full": "󰽢",
+        "waning-gibbous": "󰽦",
+        "third-quarter": "󰽣",
+        "waning-crescent": "󰽥"
+    },
+    "clock": {
+        "0": "󱑊",
+        "3": "󱑁",
+        "6": "󱑄",
+        "9": "󱑇"
+    },
+    "degree": "",
+    "humidity": "",
+    "arrow": {
+        "up": "",
+        "down": ""
+    },
+    "location": "",
+    "longitude": "󰽚",
+    "latitude": "󰽗",
+    "sunrise": "",
+    "sunset": "",
+    "wind_dir": {
+        "up": "",
+        "down": "",
+        "left": "",
+        "right": "",
+        "up_left": "",
+        "up_right": "",
+        "down_left": "",
+        "down_right": ""
+    }
+}
