@@ -7,6 +7,10 @@
 <img src="https://github.com/kurtnettle/wttrbarpy/assets/89929240/d093b739-e707-4646-b432-0c409a585a6a"/>
 </p>
 
+## Installation
+
+`pip install git+https://github.com/kurtnettle/wttrbarpy.git`
+
 ## Usage
 
 - `--ampm` - show time in AM/PM format. defaults to `False`
