@@ -2,6 +2,9 @@
 <p align="center"> a highly customizable weather module for <a href="https://github.com/Alexays/Waybar/">Waybar</a> inspired by <a href="https://github.com/bjesus/wttrbar">wttrbar</a> using <a href="https://wttr.in/">wttr.in</a>
 </p>
 
+## ⚠️ This project has been discontinued.
+### I am working on a new weather module which will have multiple sources for fetching the weather data.
+
 ## Preview 
 <p align="center">
 <img src="https://github.com/kurtnettle/wttrbarpy/assets/89929240/d093b739-e707-4646-b432-0c409a585a6a"/>
